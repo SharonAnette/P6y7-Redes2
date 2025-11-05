@@ -14,3 +14,17 @@ Implementar un **servicio UDP** utilizando **Node.js** para comprender el funcio
 ## Práctica 7 — Transmisión de Video mediante Sockets UDP
 ### Objetivo
 Desarrollar una **aplicación de transmisión de video en tiempo real** utilizando **Python, OpenCV y el protocolo UDP**, demostrando la eficiencia del envío de datos multimedia en redes locales sin conexión persistente, priorizando la velocidad y baja latencia en la comunicación.
+
+---
+
+## Estructura del repositorio 
+📁 UDP_Sockets
+├── 📁 Practica6_UDP_Node
+│ ├── udp_server.js
+│ └── udp_client.js
+│
+├── 📁 Practica7_UDP_Video
+│ ├── video_server.py
+│ └── video_client.py
+│
+└── 📄 README.md
