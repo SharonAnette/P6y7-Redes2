@@ -18,13 +18,13 @@ Desarrollar una **aplicación de transmisión de video en tiempo real** utilizan
 ---
 
 ## Estructura del repositorio 
-📁 UDP_Sockets
-├── 📁 Practica6_UDP_Node
-│ ├── udp_server.js
-│ └── udp_client.js
-│
-├── 📁 Practica7_UDP_Video
-│ ├── video_server.py
-│ └── video_client.py
-│
-└── 📄 README.md
+📁 UDP_Sockets  
+├── 📁 Practica6_UDP_Node  
+│ ├── udp_server.js  
+│ └── udp_client.js  
+│  
+├── 📁 Practica7_UDP_Video  
+│ ├── video_server.py  
+│ └── video_client.py  
+│  
+└── 📄 README.md  
